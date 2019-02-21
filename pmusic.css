@@ -57,11 +57,11 @@ body {
 
 .track {
 
-    height: 14em;
+    height: 12em;
     /* width: 18vw; */
     border: 2px solid #e4eed7;
     /* flex-basis: 1; */
-    border-radius: 10px;
+    border-radius: 20px;
 
 }
 
