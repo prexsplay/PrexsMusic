@@ -1,12 +1,8 @@
 body {
-    /* margin: auto ; */
+     margin: auto ; 
     /* display:flex; */
 
-    border: 10px solid #e4eed7;
-    border-radius: 10px;
-    height: auto;
-    background: rgba(0, 0, 0, 0.13) center url("piano.jpg");
-
+    
 
 }
 
@@ -20,9 +16,8 @@ body {
         'Arial Narrow Bold',
         sans-serif;
     font-size: 2em;
-    position: fixed;
+    position: fixed; 
     color: white;
-    height: 10vh;
     border: solid purple 5px;
     border-radius: 50px;
    
@@ -42,6 +37,12 @@ body {
     border-radius: 10px;
     font-size: 2em;
     text-shadow: 2px 6px 13px #1C6EA4;
+
+    border: 10px solid #e4eed7;
+    border-radius: 10px;
+    height: auto;
+    background: rgba(0, 0, 0, 0.13) center url("piano.jpg");
+
 
 }
 
