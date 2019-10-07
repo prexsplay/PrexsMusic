@@ -23,6 +23,8 @@ body {
     position: fixed;
     color: white;
     height: 10vh;
+    border: solid purple 5px;
+    border-radius: 50px;
    
 
 }
